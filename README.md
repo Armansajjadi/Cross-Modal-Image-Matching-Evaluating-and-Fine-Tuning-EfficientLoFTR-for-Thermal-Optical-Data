@@ -1,0 +1,2 @@
+# Cross-Modal-Image-Matching-Evaluating-and-Fine-Tuning-EfficientLoFTR-for-Thermal-Optical-Data
+This project evaluates and fine-tunes EfficientLoFTR for thermal-optical image matching. A custom two-stage transfer learning pipeline overcomes strict 6GB VRAM limits. The adapted model extracts 2x more features, achieves 76% Mean Matching Accuracy, and runs nearly 50% faster (9.1 FPS) due to a highly pure RANSAC inlier ratio.
